@@ -4,6 +4,7 @@
 
 
 ## Analytics Portfolio
+These are a few projects done by me
 ### [**Project 1: Lego Data Analysis**](https://github.com/iamchansekhar/Lego-Data-analysis)
 
 Analysing the Lego data to answer questions based
