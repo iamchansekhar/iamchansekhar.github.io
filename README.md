@@ -1,7 +1,10 @@
 # Chandra Sekhar
 ### Senior Product Analytics Manager | IIT | ISB | Experience 10 Years | Ex- Meesho, Ex- Shell
 ### Data and Analytics Professional
+###                      
 
+
+                                     
 
 ## Analytics Portfolio
 These are a few projects done by me
