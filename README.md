@@ -1,4 +1,7 @@
-# Chandra Sekhar
+<img src="https://github.com/iamchansekhar/iamchansekhar.github.io/assets/36980339/35b39ac2-56b7-4b84-9f84-56ce62fda4f5" alt="alt text" width="200" height="200">
+
+# Chandra Sekhar 
+
 ### Senior Product Analytics Manager | IIT | ISB | Experience 10 Years | Ex- Meesho, Ex- Shell
 ### Data and Analytics Professional
 
