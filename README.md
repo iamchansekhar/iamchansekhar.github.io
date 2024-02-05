@@ -2,8 +2,7 @@
 
 # Chandra Sekhar 
 
-### Senior Product Analytics Manager | IIT | ISB | Experience 10 Years | Ex- Meesho, Ex- Shell
-### Data and Analytics Professional
+### "Transforming Business Insights: BI & Product Analytics Leader | 10 Years Experience | Meesho & Shell Background | IIT & ISB Alumni"
 
 
 ## Analytics Portfolio
@@ -15,11 +14,6 @@ Analysing the Lego data to answer questions based
 ### [ Project 2: Predicting Employee attrition](https://github.com/iamchansekhar/Predicting-Attrition-of-Employees)
 This Project includes Feature Engineering and Machine Learning Models to predict attrition of employees
 
-### Project 3
-Identifying Churned customers in a ecommerce company
-
-### Project 4
-Predicting NPS score from the customer order data
 
 ## Want to learn and get started in the field of analytics.
 Here is the link to the tutorials created by me for beginners
