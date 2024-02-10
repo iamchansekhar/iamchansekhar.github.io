@@ -1,4 +1,4 @@
-<img src="https://github.com/iamchansekhar/iamchansekhar.github.io/assets/36980339/35b39ac2-56b7-4b84-9f84-56ce62fda4f5" alt="alt text" width="200" height="200">
+<img src="https://github.com/iamchansekhar/iamchansekhar.github.io/assets/36980339/505adbb0-d95c-45c5-b66c-b58b66b97c8b" alt="alt text" width="200" height="200">
 
 # Chandra Sekhar 
 
@@ -8,6 +8,7 @@
 ## Analytics Portfolio
 These are a few projects done by me
 ### [**Project 1: Lego Data Analysis**](https://github.com/iamchansekhar/Lego-Data-analysis)
+
 
 Analysing the Lego data to answer questions based
 
