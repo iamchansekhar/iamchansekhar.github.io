@@ -15,6 +15,9 @@ Analysing the Lego data to answer questions based on the available data
 ### [ Project 2: Predicting Employee attrition](https://github.com/iamchansekhar/Predicting-Attrition-of-Employees)
 This Project includes Feature Engineering and Machine Learning Models to predict attrition of employees
 
+### Kaggle Competitions
+1. [Predicting survival in an interstellar travel](https://www.kaggle.com/code/chan4483/titanic-spaceship-cs-v2)
+
 
 ## Want to learn and get started in the field of analytics.
 Here is the link to the tutorials created by me for beginners
