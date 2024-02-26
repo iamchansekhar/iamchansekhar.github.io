@@ -10,7 +10,7 @@ These are a few projects done by me
 ### [**Project 1: Lego Data Analysis**](https://github.com/iamchansekhar/Lego-Data-analysis)
 
 
-Analysing the Lego data to answer questions based
+Analysing the Lego data to answer questions based on the available data
 
 ### [ Project 2: Predicting Employee attrition](https://github.com/iamchansekhar/Predicting-Attrition-of-Employees)
 This Project includes Feature Engineering and Machine Learning Models to predict attrition of employees
