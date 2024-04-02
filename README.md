@@ -19,7 +19,8 @@ This Project includes Feature Engineering and Machine Learning Models to predict
 1. [Predicting survival in an interstellar travel](https://www.kaggle.com/code/chan4483/titanic-spaceship-cs-v2)
 
 
-## Want to learn and get started in the field of analytics.
+### Want to learn and get started in the field of analytics.
 Here is the link to the tutorials created by me for beginners
 1. [SQL Basics](https://www.youtube.com/playlist?list=PLvDM8-LZ_yFiG_MYoVttLNfwXVRlQ9uF5)
 2. [Python for Data Science](https://www.youtube.com/playlist?list=PLvDM8-LZ_yFi-xonbHk13nUXvoprVMQXC)
+3. [SQL LeetCode Problems](https://www.youtube.com/playlist?list=PLvDM8-LZ_yFifOaG_vHIU4P_i-rTmvvkH)
