@@ -16,15 +16,15 @@ Transforming Business Insights 🚀 | BI & Product Analytics Leader
 ## 📬 Contact
 - 📧 **Email:** [chandrasekhar.ism@gmail.com](mailto:chandrasekhar.ism@gmail.com)  
 - 📱 **Phone:** +91 7022259446  
-- 💼 **LinkedIn:** [linkedin.com/in/chandrasekharism](https://www.linkedin.com/in/chandrasekharism)  
-- 🐦 **Kaggle:** [kaggle.com/chan4483](https://www.kaggle.com/chan4483)  
+- 💼 **LinkedIn:** [linkedin.com/in/chandrasekharism](https://www.linkedin.com/in/iamchandrasekhar/)  
+- 🐦 **Kaggle:** [kaggle.com/ChandraSekhar](https://www.kaggle.com/chan4483)  
 
 ---
 
 ## 💡 About Me
 - 🧑‍💼 Analytics & BI Leader with a decade of experience driving **data strategy, insights, and product growth**.  
 - 🌍 Worked with **high-growth startups (Meesho)** and **global enterprises (Shell)**.  
-- 🎓 **Educational Background**: IIT (Engineering) & ISB (MBA).  
+- 🎓 **Educational Background**: IIT (B.Tech 2014),  Indian School of Business (MBA- 2023-24) , INSEAD Singapore (Exec. MBA 2024).  
 - 🔍 Passionate about **AI/ML, Predictive Analytics, and Business Intelligence platforms**.  
 - ✍️ Creating **learning resources** to help beginners in analytics (SQL, Python, ML).  
 
