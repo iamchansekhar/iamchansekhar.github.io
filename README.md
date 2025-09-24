@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Chandra Sekhar</h1>
 
 <h3 align="center">
-Transforming Business Insights 🚀: BI & Product Analytics Leader | 11+ Years Experience </h3>
+BI & Product Analytics Leader | 11+ Years Experience | Transforming Business Insights 🚀 </h3>
 A seasoned analytics professional with a passion for decoding complex data into actionable strategies. My experience spans across leading product analytics at **Meesho** and driving data-driven decisions at **Shell**. I specialize in building data narratives that fuel business growth, optimize product features, and enhance user experience
 11+ Years of Experience | Meesho & Shell | IIT & ISB Alumni
 
@@ -54,6 +54,11 @@ An exploratory data analysis (EDA) project delving into the vast LEGO dataset to
 A machine learning project focused on predicting employee churn. This work involves comprehensive feature engineering, model training, and evaluation to identify key factors leading to attrition.
 
 **Tech Stack:** `Python`, `Scikit-learn`, `Pandas`, `Seaborn`, `Machine Learning`
+
+### 🎮[Simulation Game : Battle of Warriors](https://github.com/iamchansekhar/Simulation-Game-in-Python)
+This is a sample game created to explain Classes and 4 pillars of OOP (Encapsulation, Abstraction, Inheritance, Polymorphism)
+**Tech Stack:** `Python`, 'Jupiter Notebook'
+
 
 ---
 
