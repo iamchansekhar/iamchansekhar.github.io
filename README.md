@@ -56,7 +56,8 @@ A machine learning project focused on predicting employee churn. This work invol
 **Tech Stack:** `Python`, `Scikit-learn`, `Pandas`, `Seaborn`, `Machine Learning`
 
 ### 🎮[Simulation Game : Battle of Warriors](https://github.com/iamchansekhar/Simulation-Game-in-Python)
-This is a sample game created to explain Classes and 4 pillars of OOP (Encapsulation, Abstraction, Inheritance, Polymorphism)
+This is a sample game created to explain Classes and 4 pillars of OOP (Encapsulation, Abstraction, Inheritance, Polymorphism).
+
 **Tech Stack:** `Python`, `Jupiter Notebook`
 
 
