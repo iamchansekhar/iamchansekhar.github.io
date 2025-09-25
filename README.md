@@ -1,13 +1,24 @@
-<!-- Profile Banner / Image -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1e4be63f-67ec-47da-b97c-2d25999f156f" alt="Chandra Sekhar" width="150" height="200" style="border-radius: 10px;"/>
-</p>
-<h1 align="center">Hi 👋, I'm Chandra Sekhar</h1>
 
-<h3 align="center">
-BI & Product Analytics Leader | 11+ Years Experience | Transforming Business Insights 🚀 </h3>
-A seasoned analytics professional with a passion for decoding complex data into actionable strategies. My experience spans across leading product analytics at **Meesho** and driving data-driven decisions at **Shell**. I specialize in building data narratives that fuel business growth, optimize product features, and enhance user experience
-11+ Years of Experience | Meesho & Shell | IIT & ISB Alumni
+
+<!-- Profile Header -->
+<table>
+  <tr>
+    <td width="180">
+      <img src="https://github.com/user-attachments/assets/1e4be63f-67ec-47da-b97c-2d25999f156f" alt="Chandra Sekhar" width="150" height="200" style="border-radius: 10px;"/>
+    </td>
+    <td>
+      <h1>Hi 👋, I'm Chandra Sekhar</h1>
+      <h3>BI & Product Analytics Leader | 11+ Years Experience | Transforming Business Insights 🚀</h3>
+      <p>
+      A seasoned analytics professional with a passion for decoding complex data into actionable strategies.  
+      My experience spans across leading product analytics at <b>Teikametrics and Meesho</b> and driving data-driven decisions at <b>Petrolink and Shell</b>.  
+      I specialize in building data narratives that fuel business growth, optimize product features, and enhance user experience.  
+      <br/><br/>
+      🎓 IIT & ISB Alumni | Exec. MBA (INSEAD, Singapore)  
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -28,17 +39,29 @@ A seasoned analytics professional with a passion for decoding complex data into 
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies  
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+### 👨‍💻 Programming & Data
+- Python, SQL  
+- Pandas, Scikit-learn, Feature Engineering  
+- Data Mining, Predictive Analytics, A/B Testing  
+
+---
+
+### 🤖 AI & Advanced Analytics
+- Machine Learning (Supervised & Unsupervised)  
+- Generative AI, Agentic AI  
+- LangChain, Prompt Engineering  
+
+---
+
+### 📊 Data Tools & Platforms
+- Looker, Tableau, Power BI  
+- Databricks, Snowflake  
+- Git, GitHub  
+
+---
+
 
 ---
 
@@ -70,7 +93,11 @@ My approach to the "Spaceship Titanic" competition, utilizing various classifica
 
 **Tech Stack:** `Python`, `XGBoost`, `CatBoost`, `Feature Engineering`
 
----
+### 🧑‍💼 [Customer Churn Prediction using Keras and Tensorflow ](https://www.kaggle.com/code/chan4483/churn-prediction-using-keras-tensor-flow)
+The methodology used here is to predict churn using Keras and Tensorflow
+
+**Tech Stack:** `Python`, `Tensorflow`, `Keras`, `Feature Engineering`, `seaborn`,`Matplotlib`
+
 
 ## 👨‍🏫 Sharing Knowledge: Data Analytics Tutorials
 
@@ -98,3 +125,32 @@ I believe in empowering the next wave of data enthusiasts. Here are some beginne
 
 ---
 ✨ *“Turning Data into Action – that’s the foundation of business success.”* ✨
+
+
+## 🛠️ Skills & Technologies  
+
+### 👨‍💻 Programming & Data
+- Python, SQL  
+- Pandas, Scikit-learn, Feature Engineering  
+- Data Mining, Predictive Analytics, A/B Testing  
+
+---
+
+### 🤖 AI & Advanced Analytics
+- Machine Learning (Supervised & Unsupervised)  
+- Generative AI, Agentic AI  
+- LangChain, Prompt Engineering  
+
+---
+
+### 📊 Data Tools & Platforms
+- Looker, Tableau, Power BI  
+- Databricks, Snowflake  
+- Git, GitHub  
+
+---
+
+### 🧑‍💼 Business & Leadership
+- Product Analytics, Product Management  
+- Team Building & Cross-functional Leadership  
+- Strategy & Roadmap Planning  
