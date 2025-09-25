@@ -62,10 +62,6 @@
 
 ---
 
-
----
-
-
 ## 💻 Portfolio Projects
 
 ### 🧩 [Lego Data Analysis](https://github.com/iamchansekhar/Lego-Data-analysis)
@@ -108,14 +104,6 @@ I believe in empowering the next wave of data enthusiasts. Here are some beginne
 * 🧠 **[Solving SQL LeetCode Problems](https://www.youtube.com/playlist?list=PLvDM8-LZ_yFifOaG_vHIU4P_i-rTmvvkH)**
 
 ---
----
-
-## ⚡ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,looker,tableau,github,git,aws,azure,linux,postgresql,databricks,snowflake" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -125,32 +113,3 @@ I believe in empowering the next wave of data enthusiasts. Here are some beginne
 
 ---
 ✨ *“Turning Data into Action – that’s the foundation of business success.”* ✨
-
-
-## 🛠️ Skills & Technologies  
-
-### 👨‍💻 Programming & Data
-- Python, SQL  
-- Pandas, Scikit-learn, Feature Engineering  
-- Data Mining, Predictive Analytics, A/B Testing  
-
----
-
-### 🤖 AI & Advanced Analytics
-- Machine Learning (Supervised & Unsupervised)  
-- Generative AI, Agentic AI  
-- LangChain, Prompt Engineering  
-
----
-
-### 📊 Data Tools & Platforms
-- Looker, Tableau, Power BI  
-- Databricks, Snowflake  
-- Git, GitHub  
-
----
-
-### 🧑‍💼 Business & Leadership
-- Product Analytics, Product Management  
-- Team Building & Cross-functional Leadership  
-- Strategy & Roadmap Planning  
